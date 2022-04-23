@@ -1,1 +1,2 @@
-
+In order to delete a customer from the table with a stored procedure, we need to retrieve the customer to be deleted. 
+Next we delete the record as long as the names or id of the record we retrieved matches that of the information we want to delete. 
